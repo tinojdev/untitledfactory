@@ -1,0 +1,13 @@
+.bsp
+bin/
+target/
+project/project
+build/
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+.bloop
+.metals
+.vscode
